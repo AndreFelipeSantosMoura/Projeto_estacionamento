@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.0\Estacionamento.deps.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.0\Estacionamento.runtimeconfig.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.0\Estacionamento.runtimeconfig.dev.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.0\Estacionamento.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\netcoreapp2.0\Estacionamento.pdb
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.0\Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.0\Estacionamento.AssemblyInfo.cs
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.0\Estacionamento.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\netcoreapp2.0\Estacionamento.pdb
