@@ -7,6 +7,7 @@ namespace Estacionamento {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("BEM VINDO AO E-CAR_SYSTEM");
+            Console.WriteLine("Olá");
             Console.WriteLine("1 = SIM");
             Console.WriteLine("2 = NÃO");
             Console.WriteLine();
